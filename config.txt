@@ -19,7 +19,7 @@
 # 生日1
 "birthday1": {"name": "小石", "birthday": "2003-07-01"},
 # 考试2
-"examination2": {"name": "CET-4", "birthday": "r1997-01-01"},
+"examination2": {"name": "CET-4", "birthday": "2022-09-17"},
 # 在一起的日子，格式同上
 "love_date": "2021-01-01",
 # 金句中文，如果为空，默认会读取金山的每日金句
